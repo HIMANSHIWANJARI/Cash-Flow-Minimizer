@@ -1,0 +1,14 @@
+Enter the number of participants (up to 100): 3
+Enter the name of participant 1: Arina
+Enter the name of participant 2: Bob
+Enter the name of participant 3: Charlie
+Enter the transaction amounts:
+Arina owes Bob: 12000
+Arina owes Charlie: 3000
+Bob owes Arina: 2500
+Bob owes Charlie: 4080
+Charlie owes Arina: 7000
+Charlie owes Bob: 9010
+Optimizing cash flow:
+Charlie pays 8930 to Bob
+Arina pays 5500 to Bob
