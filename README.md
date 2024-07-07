@@ -20,6 +20,7 @@ Lets review the following output :
 Mathematical Basis: 
 
 To minimize transactions, we calculate the net amount for each bank using the formula:
+
 net amount = (Sum of all credits) − (Sum of all debits)
 
 This results in a net balance list indicating how much each bank needs to pay or receive.
