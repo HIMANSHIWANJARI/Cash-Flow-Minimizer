@@ -13,7 +13,7 @@ When you execute the program, it guides you through the process:
 4. For each transaction, provide the debtor bank, creditor bank, and amount separated by spaces.
 5. The program then processes the transactions and prints out the minimized number of transactions required to settle all debts.
 
-Lets review the following output :
+Let's review the following output :
 
 ![Screenshot (133)](https://github.com/HIMANSHIWANJARI/Cash-Flow-Minimizer/assets/126982834/e5c4bf2e-038f-40a3-add1-7bdff5770ec5)
 
