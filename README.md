@@ -1,10 +1,10 @@
 # Cash-Flow-Minimizer
-Overview :
+**Overview** :
 
 This system is designed to minimize the number of transactions among multiple banks. The objective is to efficiently settle all debts and credits among the banks, thereby reducing the total number of transactions required.
 
 
-How to Use :
+**How to Use** :
 
 When you execute the program, it guides you through the process:
 1. Enter the number of banks.
@@ -29,4 +29,4 @@ This results in a net balance list indicating how much each bank needs to pay or
 4. Update the net amounts accordingly and remove any settled banks (those with net amount zero) from further consideration.
 5. Repeat the process until all debts are settled.
 
-Thank you for using the Cash Flow Minimizer!
+**Thank you for using the Cash Flow Minimizer!**
